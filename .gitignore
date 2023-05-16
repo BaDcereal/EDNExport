@@ -1,4 +1,15 @@
+/.vscode
 .gitignore
+._*
+.*~
+.DS_Store
+.DS_Store
+._.DS_Store
+*.old
+.venv
+.vscode
 /arquivos_exportados
+/src/__pycache__
+/src/test*.*
 /build
 /dist
