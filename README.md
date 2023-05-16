@@ -45,8 +45,8 @@ Recursos do EDNExport:
 
 Nota: O EDNExport foi desenvolvido para multiplataforma, você pode fazer o download
 dos arquivos binários para as seguintes plataformas:
-* [MacOSX](./dist/MacOSX/EDNExport.zip) - MD5 (EDNExport.zip) = a157ad40e0df63c56723081872b52f59
-* [Windows](./dist/Windows/ednexport.zip) - MD5 (ednexport.zip) = 184ed74fa7881dbe52202e4e5bd5fab8
+* [MacOSX](https://github.com/BaDcereal/EDNExport/releases/download/v.0.0.1-beta/EDNExport_MacOSX.zip) - MD5 (EDNExport.zip) = a157ad40e0df63c56723081872b52f59
+* [Windows](https://github.com/BaDcereal/EDNExport/releases/download/v.0.0.1-beta/EDNExport_Windows.zip) - MD5 (ednexport.zip) = 184ed74fa7881dbe52202e4e5bd5fab8
 
 Nota 2: O EDNExport foi desenvolvido para **exportar os dados para o banco de dados
 _MySQL_, se você não usa o _MySQL_ como banco de dados você pode usar a exportação para
