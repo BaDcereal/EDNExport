@@ -1,0 +1,4 @@
+.gitignore
+/arquivos_exportados
+/build
+/dist
