@@ -102,6 +102,12 @@ diretório não possui os arquivos necessários.
 
 ----------
 
+## Vídeo de demonstração
+
+* [EDNExport Youtube](https://www.youtube.com/watch?v=y9_A9q9-SL8&pp=ygUkaW1wb3J0YcOnw6NvIGJhc2UgZGFkb3MgY2VwIGNvcnJlaW9z)
+
+----------
+
 ## Suporte
 
 Este projeto é oferecido no estado em que se encontra, não garantimos suporte para quaisquer problemas que possam surgir. No entanto, se você deseja colaborar com o projeto você pode acessar o servidor do discord para sugerir novos recursos ou informar possíveis bugs.
